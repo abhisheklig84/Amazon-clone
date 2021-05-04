@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone/static/css/main.aa27fc69.chunk.css",
+    "main.js": "/Amazon-clone/static/js/main.a89b94d6.chunk.js",
+    "main.js.map": "/Amazon-clone/static/js/main.a89b94d6.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone/static/js/runtime-main.2ff5b335.js",
+    "runtime-main.js.map": "/Amazon-clone/static/js/runtime-main.2ff5b335.js.map",
+    "static/js/2.218a3821.chunk.js": "/Amazon-clone/static/js/2.218a3821.chunk.js",
+    "static/js/2.218a3821.chunk.js.map": "/Amazon-clone/static/js/2.218a3821.chunk.js.map",
+    "index.html": "/Amazon-clone/index.html",
+    "static/css/main.aa27fc69.chunk.css.map": "/Amazon-clone/static/css/main.aa27fc69.chunk.css.map",
+    "static/js/2.218a3821.chunk.js.LICENSE.txt": "/Amazon-clone/static/js/2.218a3821.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ff5b335.js",
+    "static/js/2.218a3821.chunk.js",
+    "static/css/main.aa27fc69.chunk.css",
+    "static/js/main.a89b94d6.chunk.js"
+  ]
+}
